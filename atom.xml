@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pppan.site</id>
+    <id>https://marvelouspp.github.io</id>
     <title>: P STUDIO</title>
-    <updated>2020-01-25T10:23:48.683Z</updated>
+    <updated>2020-01-25T10:52:32.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://pppan.site"/>
-    <link rel="self" href="https://pppan.site/atom.xml"/>
+    <link rel="alternate" href="https://marvelouspp.github.io"/>
+    <link rel="self" href="https://marvelouspp.github.io/atom.xml"/>
     <subtitle>Don&apos;t Judge It, Just Experience It. </subtitle>
-    <logo>https://pppan.site/images/avatar.png</logo>
-    <icon>https://pppan.site/favicon.ico</icon>
+    <logo>https://marvelouspp.github.io/images/avatar.png</logo>
+    <icon>https://marvelouspp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, : P STUDIO</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://pppan.site/post/hello-gridea</id>
-        <link href="https://pppan.site/post/hello-gridea">
+        <id>https://marvelouspp.github.io/post/hello-gridea</id>
+        <link href="https://marvelouspp.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
